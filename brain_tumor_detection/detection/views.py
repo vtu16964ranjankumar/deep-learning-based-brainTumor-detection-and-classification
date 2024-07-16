@@ -36,4 +36,4 @@ def index(request):
         
         return JsonResponse({'prediction': prediction})
     
-    return render(request, 'detection/index.html')
+    return render(request, 'detection\\templates\\index.html')
