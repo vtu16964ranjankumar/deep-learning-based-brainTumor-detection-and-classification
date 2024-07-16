@@ -1,5 +1,13 @@
 # Result
+The result can be expected in the binary form of 0 and 1.
+
+0 -> No Brain Tumor.
+
+1 -> Yes Brain Tumor.
+
 ### Screenshot 1- Modal Training
+![Screenshot 2024-07-16 184314](https://github.com/user-attachments/assets/ab16a6c4-331c-4ff3-a368-2653a6d29846)
+
 
 ### Screenshot 2- Modal Testing for the below image:
 pred5.jpg
