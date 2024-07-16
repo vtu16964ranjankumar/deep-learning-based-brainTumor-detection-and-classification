@@ -23,3 +23,7 @@ pred0.jpg
 
 ![Screenshot 2024-07-16 182941](https://github.com/user-attachments/assets/1d668ba9-85d0-42c0-8c9f-cd4923f04450)
 As we can see the modal predict 0, meaning that brain is not affected by tumor.
+
+
+# Future Plan:
+We can deploy this modal to the web through various python framework such as flask and django.
